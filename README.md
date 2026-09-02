@@ -5,7 +5,29 @@
 
 ## 🛠️ Technologies
 
-HTML • CSS • Python • SQL • Git • GitHub
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ## 🚀 Projects
 
