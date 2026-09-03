@@ -1,4 +1,4 @@
-# Raony Pietro 👋
+# Raony Janelato 👋
 
 🎓 Multiplatform Systems Development — FATEC  
 💻 Junior Developer | Web & Software Development
