@@ -8,7 +8,7 @@
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,java script" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
 ### ⚙️ Backend
