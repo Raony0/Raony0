@@ -34,7 +34,7 @@
 **SLY Company**  
 Responsive website developed for a conceptual streetwear brand.
 
-[GitHub](https://github.com/Raony0/SLY-Company) · [Live Website](https://raony0.github.io/SLY-Company/)
+[GitHub](https://github.com/Raony0/SLY-Company) · [Live Website](https://raony0.github.io/SLY_CompanyV2/)
 
 ## 📚 Currently Learning
 
