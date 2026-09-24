@@ -3,7 +3,7 @@
 🎓 Multiplatform Systems Development — FATEC  
 💻 Junior Developer | Web & Software Development
 
-## 🛠️ Technologies
+## 🛠️ Ferramentas 
 
 ### 🎨 Frontend
 
@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-## 🚀 Projects
+## 🚀 Projetos
 
 **SLY Company**  
 - Site responsivo desenvolvido para uma marca conceitual de streetwear.
@@ -37,16 +37,16 @@
 [GitHub](https://github.com/Raony0/SLY-Company) · [WebSite](https://raony0.github.io/SLY_CompanyV2/)
 
 
-**Portfolio pessoal**
-- Site de portfolio pessoal responsivo para networking e apresentação.
+**Portfólio pessoal**
+- Site de portfólio pessoal responsivo para networking e apresentação.
 
 [GitHub](https://github.com/Raony0/Portfolio) · [WebSite](https://raony0.github.io/Portfolio/)
 
 
-## 📚 Currently Learning
+## 📚 Aprendendo atualmente
 
-Python • Web Development • Databases • Software Engineering
+Python • Desenvolvimento Web • Banco de Dados • Engenharia de Software
 
 ---
 
-*Building, learning and improving one project at a time.*
+*Construir, aprender e melhorar um projeto de cada vez.*
