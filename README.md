@@ -32,9 +32,13 @@
 ## 🚀 Projects
 
 **SLY Company**  
-Responsive website developed for a conceptual streetwear brand.
+Site responsivo desenvolvido para uma marca conceitual de streetwear.
+[GitHub](https://github.com/Raony0/SLY-Company) · [WebSite](https://raony0.github.io/SLY_CompanyV2/)
 
-[GitHub](https://github.com/Raony0/SLY-Company) · [Live Website](https://raony0.github.io/SLY_CompanyV2/)
+**Portfolio pessoal**
+Site de portfolio pessoal responsivo para networking e apresentação
+
+[GitHub](https://github.com/Raony0/Portfolio) · [WebSite](https://raony0.github.io/Portfolio/)
 
 ## 📚 Currently Learning
 
