@@ -34,13 +34,13 @@
 **SLY Company**  
 - Site responsivo desenvolvido para uma marca conceitual de streetwear.
 
-[GitHub](https://github.com/Raony0/SLY-Company) · [WebSite](https://slycompany.vercel.app/)
+[WebSite](https://slycompany.vercel.app/)
 
 
 **Portfólio pessoal**
 - Site de portfólio pessoal responsivo para networking e apresentação.
 
-[GitHub](https://github.com/Raony0/Portfolio) · [WebSite](https://portfolioraony.vercel.app/)
+[WebSite](https://portfolioraony.vercel.app/)
 
 
 ## 📚 Aprendendo atualmente
